@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JumpPads">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="JumpPads.jar">
+      <element id="module-output" name="JumpPads" />
+    </root>
+  </artifact>
+</component>

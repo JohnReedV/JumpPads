@@ -1,0 +1,5 @@
+main: jumppads.Main
+name: JumpPads
+version: 1.0
+api-version: 1.14
+commands:
